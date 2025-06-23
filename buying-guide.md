@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Buying Guide – Portable Lamps
@@ -15,7 +16,5 @@ title: Buying Guide – Portable Lamps
 - Dining tables (single piece or paired)
 - Balcony tables or console shelves
 - Hotel reception desks or nightstands
-
----
 
 > ✅ [Shop Now – Portable Table Lamps at ChronosLights](https://chronoslights.com/collections/portable-table-lamps)

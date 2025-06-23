@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Benefits of Cordless Table Lamps

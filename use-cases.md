@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Portable Lamp Use Cases
@@ -16,5 +17,7 @@ Tabletop lamps bring a cozy, Instagrammable atmosphere. Ideal for day-to-night t
 
 ## 4. Home Use
 Great for balconies, bedside reading, or even dinner parties. Flexible, stylish, and safe.
+
+![Lamp on cafe table](./assets/images/placeholder.jpg)
 
 > 🛋️ “Mood lighting is no longer optional — it’s essential.”
